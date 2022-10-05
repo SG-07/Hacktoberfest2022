@@ -1,5 +1,5 @@
 #!/bin/bash
-figlet "CRowpro"
+figlet "CROWPRO"
 printf "\t\tCreated by :
 \033[1;91mYKumar\n"
 printf "\tAll rights are reserved"
@@ -21,7 +21,7 @@ echo
 "1. To view whois information"
 echo "2. To identify technologies used by
 target"
-echo "3. Port Scanning with Nmap"
+echo "3. Port Scanning with Nmap ...."
 echo
 echo
 echo "Enter the target
@@ -64,7 +64,7 @@ echo
 "-sU : to activate UDP scan"
 echo "-p port_number : to only scan particuler
 port number"
-echo "-p- : to scan all 65535 ports"
+echo "-p- : to scan all 65535 ports ...."
 echo
 echo
 echo "Enter the
